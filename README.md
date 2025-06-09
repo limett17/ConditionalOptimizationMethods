@@ -1,5 +1,7 @@
 <h1>Здесь представлена моя реализация методов условной оптимизации</h1>
-<img src="./river_gif.gif">
+<div align="center">
+  <img src="./river_gif.gif">
+</div>
 <div>
 В этом репозитории 3 метода:
 <ul>
