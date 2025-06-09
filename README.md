@@ -27,7 +27,7 @@
 итерации основного алгоритма. Цветные линии - линии уровня целевой 
 функции. 
 
-<img src="./external_penalty_img.jpg" height="500">
+<img src="./external_penalty_img.jpg">
 
 </div>
 
@@ -44,7 +44,7 @@
 видно.<br>
 График представлен ниже.
 
-<img src="./internal_penalty_img.jpg" height="500">
+<img src="./internal_penalty_img.jpg">
 
 </div>
 
